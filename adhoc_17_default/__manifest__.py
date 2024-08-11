@@ -134,9 +134,9 @@
 
         'https://github.com/ingadhoc/account-payment',
         'https://github.com/ingadhoc/account-financial-tools',
-        'https://github.com/ingadhoc/odoo-argentina','
-        'https://github.com/ingadhoc/odoo-argentina-ce','
-        'https://github.com/ingadhoc/argentina-sale','
+        'https://github.com/ingadhoc/odoo-argentina',
+        'https://github.com/ingadhoc/odoo-argentina-ce',
+        'https://github.com/ingadhoc/argentina-sale',
 
         'https://github.com/jcelguerablas/Retail.git',
         
